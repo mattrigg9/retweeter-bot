@@ -1,8 +1,0 @@
-{
-  "yaml.schemas": {
-    "cloudformation://schema/cloudformation": "file:///Users/matt/code/retweeter-bot/template.yaml"
-  },
-  "cSpell.enableFiletypes": [
-    "markdown"
-  ]
-}
