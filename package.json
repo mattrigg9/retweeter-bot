@@ -1,0 +1,26 @@
+{
+  "name": "retweeter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattrigg9/retweeter-bot.git"
+  },
+  "author": "Matt Rigg (mattrigg9)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattrigg9/retweeter-bot/issues"
+  },
+  "homepage": "https://github.com/mattrigg9/retweeter-bot#readme",
+  "dependencies": {
+    "twitter-api-v2": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.14",
+    "typescript": "^4.5.5"
+  }
+}
